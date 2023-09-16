@@ -8,7 +8,7 @@
 
 ## 시연 영상
 
-> [2022.03 - 2022.09](https://www.youtube.com/watch?v=jNu4T_Aq0G8&feature=youtu.be)
+> https://www.youtube.com/watch?v=jNu4T_Aq0G8&feature=youtu.be
 
 ## Tech Stack
 <div align="center">
